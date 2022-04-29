@@ -15,7 +15,7 @@ body {
 	font-size: x-large;
 }
 
-h2,
+h1,
 .white {
 	color: #fff;
 }
@@ -26,6 +26,15 @@ a {
 	padding: 10px;
 	font-size: 2.5rem;
 }
+
+p {
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right : auto;
+	width: 20em;
+}
+
 
 a:hover {
 	font-size: 2.3rem;
